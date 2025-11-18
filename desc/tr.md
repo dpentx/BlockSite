@@ -1,1 +1,1 @@
-Tampermonkey'de kullanılabilen site engy'dpermonkey'delleme betiği.
+Tampermonkey'de kullanılabilen site engelleme betiği.
